@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi My name is Ashwin 
+This is my first Git Respository.
+Author - Ashwin Patil 
 
 <!--
 **AshwinPatil666/AshwinPatil666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
